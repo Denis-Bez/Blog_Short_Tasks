@@ -1,0 +1,9 @@
+.vscode
+.git
+.blog
+__pycache__
+config.py
+config
+Dockerfile
+.dockerignore
+docker-compose.yml
