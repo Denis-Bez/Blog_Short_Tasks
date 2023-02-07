@@ -13,6 +13,9 @@ def abort_cicle_iteration():
             continue
         print(i)
 
+def test_commit_not_push():
+    pass
+
 
 if __name__ == '__main__':
     abort_cicle_iteration()
